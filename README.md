@@ -1,9 +1,4 @@
 # InboxAI
-OpenEnv-compatible AI email triage environment
-# InboxAI
-
-
-## 🚀 Overview
 InboxAI is an **OpenEnv-compatible AI training environment** that simulates real-world **email triage**. Agents learn to:
 - Classify emails (spam / important / urgent)
 - Assign priorities
