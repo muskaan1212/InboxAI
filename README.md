@@ -1,4 +1,4 @@
-# 📬 InboxIQ - OpenEnv Hackathon Project
+# 📬 InboxAI - OpenEnv Hackathon Project
 
 ![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688?style=for-the-badge&logo=fastapi&logoColor=white)
