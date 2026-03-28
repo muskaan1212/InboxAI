@@ -1,26 +1,4 @@
-# InboxAI
-InboxAI is an **OpenEnv-compatible AI training environment** that simulates real-world **email triage**. Agents learn to:
-- Classify emails (spam / important / urgent)
-- Assign priorities
-- Generate responses or escalate tasks
-
-Designed for the **OpenEnv Hackathon**, it’s fully interactive, graded, and deployable on **Hugging Face Spaces**.
-
----
-
-## 🎯 Features
-- Realistic email scenarios with partial reward scoring  
-- Multi-step agent decision making  
-- Deterministic graders for reproducible results  
-- Baseline agent included for benchmarking  
-- API endpoints fully documented
-
----
-
-## 📦 Folder Structure
-inboxai/
-├── public/              # Static assets (logos, images)
-├── src/# 📬 InboxIQ - OpenEnv Hackathon Project
+# 📬 InboxIQ - OpenEnv Hackathon Project
 
 ![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -155,19 +133,3 @@ InboxIQ is heavily focused on presenting a premium user experience:
 
 ## 📜 License
 This project is open-source and available under the MIT License. Feel free to use and extend this project!
-
-│   ├── app/             # Main app router components
-│   │   ├── layout.tsx   # Root layout
-│   │   └── page.tsx     # Dashboard / main page
-│   ├── components/      # Reusable UI components
-│   ├── hooks/           # Custom hooks (e.g., email fetching, AI triage)
-│   ├── styles/          # Global & Tailwind CSS
-├── next.config.mjs      # Next.js configuration
-├── package.json         # Dependencies & scripts
-├── postcss.config.js    # PostCSS setup
-└── tailwind.config.js   # Tailwind configuration
-## 🛠 Tech Stack
-- **Next.js 15** - Latest version with improved performance and features
-- **React 19** - Latest React version with enhanced capabilities
-- **Tailwind CSS** - Utility-first CSS framework for rapid UI development
-
